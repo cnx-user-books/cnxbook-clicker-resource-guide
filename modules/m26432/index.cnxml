@@ -1,0 +1,227 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Appendix</title>
+  <metadata>
+  <md:content-id>m26432</md:content-id><md:title>Appendix</md:title>
+  <md:abstract>This module gives specific examples of useful clicker questions from various science courses.</md:abstract>
+  <md:uuid>9c34c49c-df94-46b2-81e0-313fa8c58e44</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id14980080">
+      <title>Examples of good practice</title>
+      <para id="id14097363"><title>General Ex. 1: Question that encourages good discussion. </title>The first question the instructor asks is a question where all the answers are partly right. This produces a nice spread of answers, and students are confident to discuss with the instructor and argue with their peers about the correct answer, (because they were all right) and about what parts of the other answers are incorrect (because they were all partly wrong).</para>
+      <para id="id17201694"><title>General Ex. 2. Use of student polls.</title>“What topics do you find most interesting?” “Would you like exam review sessions?” Such questions are a good way to (a) demonstrate the diversity (or similarities) of opinion in the class; (b) determine directions for future lessons or activities (thus giving some measure of content-ownership to students); (c) demonstrate a match between opinions or interests and the course itself (useful during the first week of the course). We recommend making results of such poll questions visible to students and using the results in some fashion. This could include referring back to those results in pre- and post-question discussions, or making changes in response to type (b) questions with explicit indications how the survey results influenced the changes. </para>
+    </section>
+    <section id="id9640962">
+      <title>Examples of specific good clicker questions from range of courses. </title>
+      <section id="id16574853"><title>Environmental Science course</title><para id="id16899915">This question was presented during the class meeting AFTER students had completed and had returned to them a graded homework assignment in which they were asked to plot and interpret hydrologic data.</para>
+        <para id="id5022020">Clicker Question: Who knows more about a set of data?</para>
+        <para id="id17033203">Answer choices <emphasis>(results prior to discussion)</emphasis>: 
+
+        <list id="id15219691" list-type="enumerated" number-style="lower-alpha" mark-suffix=")">
+          <item>the person collects it <emphasis>(~10%)</emphasis>, </item>
+          <item>the person who plots it <emphasis>(~90%)</emphasis></item>
+        </list>
+        </para>
+
+        <para id="id4587283">This clicker question was used as spring board into talking about the HW assignment. During the discussion students greatly changed their original opinion about who knew more about the data. That discussion then acted as segue into the next lecture topic on using hydrologic data to predict flooding.</para>
+      </section>
+      <section id="id12548924"><title>Genetics course</title><para id="id17165447">A series of clicker questions can reveal that although students understand parts of a topic they still have misunderstandings about it.</para>
+
+        <para id="chrome1"><media id="id6563172" alt="A picture of two sister chromatids.">
+  <image mime-type="image/png" src="../../media/sister_chromatids.PNG" print-width="2in"/></media></para>
+
+        <para id="id16742154"><title>Sister Chromatids</title>Do they have the same set of genes? 
+
+        <list id="id13986375" list-type="enumerated" number-style="upper-alpha">
+          <item><emphasis>Yes</emphasis> 100% </item>
+          <item>No </item>
+        </list>
+      </para>
+
+      <para id="eip-id5355386">Do they have the same alleles?
+        <list id="secondlist" list-type="enumerated" number-style="upper-alpha">
+          <item><emphasis>Yes</emphasis> 100%</item>
+          <item>No</item>
+        </list>
+      </para>
+
+        <para id="chrome2"><media id="homchrom" alt="A picture of two homologous chromosomes.">
+  <image mime-type="image/png" src="../../media/homologous_chromasomes.PNG" print-width="2in"/></media></para>
+
+        <para id="id6566740"><title>Homologous Chromosomes</title>Do they have the same set of genes?
+
+        <list id="id16862327" list-type="enumerated" number-style="upper-alpha">
+          <item><emphasis>Yes</emphasis> 46%</item>
+          <item>No 54%</item>
+        </list>
+        </para>
+
+          <para id="eip-id17515419">You grow sweet peas. One of your clients wants purple sweet peas for her wedding. Which two sweet peas should you cross in order to maximize the number of purple sweet peas in the next generation?
+
+        <list id="id17200583" list-type="enumerated" number-style="upper-alpha">
+          <item>Purple CcPp x Purple CcPp</item>
+          <item>White CCpp x White ccPP</item>
+          <item>Purple CcPp x White ccPP</item>
+          <item>Purple CcPp x White CCpp</item>
+        </list>
+      </para>
+</section>
+      <section id="id16825718"><title>Introductory Biology course.</title><list id="id16950512" list-type="enumerated" number-style="arabic"><item>A plasmid containing bacterial DNA and the gene for human growth hormone is introduced into a bacterium. Which growth hormone protein will be produced?
+            <list id="sublist" list-type="enumerated" number-style="upper-alpha">
+          <item>A bacterial human growth hormone protein </item>
+          <item>A human growth hormone protein</item>
+          <item>A hybrid protein that is part human and part bacterial </item>
+        </list>
+
+        <list id="answer1" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>B</item>
+        </list>
+      </item>
+
+
+          <item>The production of a human protein in a bacterium can occur because:
+        <list id="id17028193" list-type="enumerated" number-style="upper-alpha"><item>Humans and bacteria use exactly the same codons to specify each amino acid.</item>
+          <item>Humans and bacteria use almost the same codons to specify each amino acids.</item>
+          <item>Humans and bacteria use different codons to specify each amino acid, but there is enough similarity that the protein made in bacteria still works.</item>
+        </list>
+
+        <list id="answer2" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>A</item>
+        </list>
+      </item>
+
+
+          <item>Which of the following statements is true? All the somatic cells (the cells that do not contribute to the next generation) in your body contain:
+
+        <list id="id6564686" list-type="enumerated" number-style="upper-alpha">
+          <item>The same DNA sequences and the same proteins</item>
+          <item>Different DNA sequences and different proteins</item>
+          <item>The same DNA sequences but different proteins</item>
+          <item>Different DNA sequences but the same proteins </item>
+        </list>
+
+        <list id="answer3" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>C</item>
+        </list>
+      </item>
+
+
+
+          <item>If an organism makes an abnormal protein, the error that led to this abnormality most likely originated
+
+        <list id="id13546989" list-type="enumerated" number-style="upper-alpha"><item>during the replication of the corresponding gene.</item>
+          <item>during transcription of the corresponding gene to make the corresponding mRNA.</item>
+          <item>during translation of the corresponding mRNA to make the protein.</item>
+        </list>
+
+
+        <list id="answer4" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>A</item>
+        </list>
+      </item>
+
+
+          <item>Which of the following is a FALSE statement about bacteria and viruses?
+
+        <list id="id17200171" list-type="enumerated" number-style="upper-alpha">
+          <item>Viruses are cells.</item>
+          <item>Viruses replicate inside human cells.</item>
+          <item>Bacteria can replicate their own DNA.</item>
+          <item>Viruses can have RNA as genetic material.</item>
+        </list>
+
+        <list id="answer5" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>A</item>
+        </list>
+      </item>
+
+
+          <item>Should you take an antibiotic if you have a viral infection?
+
+        <list id="id17016409" list-type="enumerated" number-style="upper-alpha">
+          <item>Yes, an antibiotic could kill the virus </item>
+          <item>No, an antibiotic can only kill bacteria </item>
+        </list>
+
+        <list id="answer6" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>B</item>
+        </list>
+      </item>
+
+
+
+          <item>Draw a representation of the plasma membrane using circles and lines to represent the two “ends” of the phospholipids that comprise the membrane. Indicate the inside and outside of the cell with respect to the membrane. {Allow students to work on this drawing for a few minutes. Then, ask the following question:}<newline/><newline/>Which of the following illustrations looks most like your own drawing (or looks correct now that you see it)?<newline/><newline/>
+
+<media id="bioanswer" alt="A: one row of phospholipids with the heads facing the outside of the cell. B: one row of phospholipids with the heads facing the inside of the cell. C: two rows of phospholipids, with the tails facing towards each other. D: two rows of phospholipids, with the heads facing towards each other.">
+  <image mime-type="image/png" src="../../media/phospholipids.PNG" print-width="5in"/>
+</media>
+        
+
+        <list id="answer7" list-type="labeled-item" mark-suffix=":">
+          <item><label>Answer</label>C</item>
+        </list>
+
+
+      </item>
+
+</list>
+      </section>
+      <section id="id16577715"><title>Physics course </title><list id="id6544000" list-type="enumerated" number-style="arabic"><item>You have a ring with a hole in it and a cylindrical plug that is exactly the same size when both are at room temperature. If you heat the ring, the plug will
+
+<list id="sublistnumbersomething" list-type="enumerated" number-style="upper-alpha">
+          <item>Fit through the hole more easily </item>
+          <item>Be exactly the same size as before </item>
+          <item>No longer fit through the hole</item>
+</list>
+<emphasis>This question can be followed by a demonstration involving an actual ring that you heat, if you choose.</emphasis>
+</item>
+
+
+          <item>When you close the switch, bulb # 2 will<newline/><newline/>
+
+<media id="circuit" alt="Three lightbulbs are connected in series from the positive end of a battery to the negative end. A switch, when closed, would connect a second path of the circuit from a point in between bulb #2 and #3 to a point after bulb #3 and before the negative terminal of the battery.">
+  <image mime-type="image/png" src="../../media/circuit.PNG" print-width="2in"/>
+</media>
+
+<list id="sublistnumbernext" list-type="enumerated" number-style="upper-alpha">
+        <item>Get brighter</item>
+        <item>Get dimmer</item>
+        <item>Stay the same brightness</item>
+        <item>Go out entirely</item>
+      </list>
+</item>
+</list></section>
+      <section id="id9907487"><title>Geology course example – Using learning difficulties (including misconceptions) in teaching: </title><para id="id16842212">Students often have difficulty identifying structural features which have undergone erosion (and with visualizations that are different than the standard textbook block diagrams). One common misconception is that structural features will follow topography; additionally, students generally don’t understand what kind of information is necessary to distinguish types of folds. Here’s a (faculty-developed) clicker question that promotes student examination and explanation of their own reasoning:</para>
+        <para id="id8551225">What additional information would you prefer in order to determine if the exposed geologic formations correspond to an anticline or a syncline?<newline/><newline/>
+
+<media id="anticline1" alt="A U-shaped valley between two ridges with jagged peaks is shown. There are many folds in the rock reaching from one ridgetop down across the valley to the far ridgetop. The valley floor is gray shale. Moving vertically up the ridges there is a band of sandstone, red shale, and the upper part of the ridges is limestone. The layers of rock curve up and down following basically the line of peaks on the ridgetop.">
+  <image mime-type="image/png" src="../../media/anticline1.PNG" print-width="4in"/>
+</media>
+        
+        <list id="id13929137" list-type="enumerated" number-style="upper-alpha"><item>Formation ages, rock compositions</item>
+          <item>Strike and dip measurements, formation ages</item>
+          <item>Rock compositions, fossil content</item>
+          <item>None of the above</item>
+        </list>
+        </para>
+
+
+        <para id="id3190723"><title>Why this works</title>The above figure could be interpreted as either a syncline or an anticline <foreign>[types of folds in rocks; synclines occur when rock layers curve upwards, and anticlines are characterized by rock layers curving downwards]</foreign>, and can’t be determined based only on the given information. This formulation helps students identify their conception that topography follows structure. A follow-up example is given below, which helps students solidify the use of correct reasoning, identify types of geologic information necessary for solving this problem, and gain experience interpreting different representations of geologic features.<newline/><newline/>
+
+<media id="anticline2 " alt="A photo from above of an eroded anticline. The structure is determined by tracing the line of the revealed ridge.">
+  <image mime-type="image/png" src="../../media/anticline2.PNG" print-width="4in"/>
+</media></para>
+      </section>
+    </section>
+  </content>
+</document>

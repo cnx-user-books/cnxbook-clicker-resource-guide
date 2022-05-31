@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Frequently Asked Questions About the Use of Clickers and Clicker Questions</title>
+  <metadata>
+  <md:content-id>m26443</md:content-id><md:title>Frequently Asked Questions About the Use of Clickers and Clicker Questions</md:title>
+  <md:abstract>This module addresses frequently asked questions about the use of clickers.</md:abstract>
+  <md:uuid>324da9aa-e06e-4d6a-9694-0cd8f3e10e6f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id11455372">
+      <title>1. How much time should I give students to answer a clicker question?</title>
+      <para id="id5792242">This depends greatly on the type and difficulty of the question: in most cases, it takes students between 30 seconds and a minute to process a question and be ready to answer individually or discuss. It then takes a few (1-4) minutes for productive discussion. The level of student discussion and the number of votes in is a good guide as to when to move on. When ~3/4 of the students have responded it is often a good time to announce end is near, then sound warning gong, count down out loud, or turn lights out to indicate that discussion should stop and students should “click in”. Instructors who decide when to end the polling based on the discussion around them often wait too long. While discussion around them will continue to focus on the question, in the rest of the room discussion has often moved on to non-class-related topics, making it harder to pull students back to class material. It is useful to poll the class after several weeks to see if they feel you are giving them too little or too much time. </para>
+      <para id="id14715385">Using the timer in the countdown mode available with most clicker system software is usually distracting to students and instructors and can limit discussion. It is better to set the timer to the maximum count down duration or in count up mode, and then just stop the question manually when you think it appropriate. </para>
+    </section>
+    <section id="id13937338">
+      <title>2. How should clicker questions be graded?</title>
+      <para id="id13937344">Most instructors make clicker questions a portion of the total course grade; between a few % and 15% is common, although a wide variety of approaches are used. The two most common grading schemes used are giving equal credit for correct and incorrect responses (participation only), and giving greater credit for correct than incorrect responses. Some pros and cons to these grading approaches are listed below. Another approach is to give participation credit only most of the time, but occasionally grade individual questions for correct responses. There is no consensus view recommended by research or convention, but our anecdotal observations lead us to lean towards this latter grading policy of always giving credit for participation and occasionally giving additional reward for the correct answer. </para>
+      <para id="id9926565">Giving credit only for correct responses is not recommended as it distorts the discussion and student response strategies in undesirable directions, and it limits the type of question that can be asked. For example, you cannot ask questions with multiple justifiable answers; yet such questions can generate the most educationally productive discussions. Similarly, not having clicker questions count for any credit is not recommended.<footnote id="foot5">S. Freeman et al, “Prescribed Active Learning Increases Performance in Introductory Biology,” CBE Life Sci Educ. 6(2), pp. 132-9 (2007).</footnote> This sends the message that questions and answers are not important, and students will not take them seriously. </para>
+      <para id="id8636414">Although student responses will vary, our observations suggest the specific grading policies do not make very much difference to students as long as one avoids the extremes that result in undesirable outcomes listed above. As long as there are consistent implicit messages from the instructor that the questions matter, students seem to take the questions reasonably seriously.</para>
+      <para id="id8636424">Regardless of grading scheme, some clicker questions should NOT be graded for the “correct” response but are very useful in promoting discussion, student learning, and instructor and student feedback. Examples of such questions are those with more than one potentially correct response, and those intended to elicit student misconceptions or students’ prior knowledge. </para>
+      <para id="id13926514">We also highly recommend that whatever grading policy is used, a certain number (2-3) of “free” days are allowed. These are days for which the student will get credit even if there are no clicker responses recorded for them. This greatly reduces the time student and instructor need to spend dealing with complaints/excuses about clicker not working, being forgotten, missing class due to any number of catastrophic events beyond students control, etc. An alternative that is similar in concept is to set a certain percentage of questions students need to answer, such as 80 or 90%, and once above that threshold they receive “maximum clicker credit”. We have also seen that when clickers count for more than 15% of the grade, the amount of time spent dealing with student concerns about being sure they receive credit for clicker responses can get annoying. Finally we recommend that at the beginning of the course you should very clearly announce that use of another person’s clicker, or having someone use your clicker, is considered cheating with the same policies applying as would be the case for turning in illicit written work.</para>
+      <table id="id13926522" summary="The first column has three different grading policies, with pros listed in the second column and cons listed in the third column.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <thead>
+            <row>
+              <entry>Common grading policy</entry>
+              <entry>Pros</entry>
+              <entry>Cons</entry>
+            </row>
+          </thead>
+          <tbody>
+
+            <row>
+              <entry>Equal credit for correct and incorrect responses (e.g. 2 pts per response or 2 pts total per class)</entry>
+              <entry>- Promotes balanced peer discussion, ideas put forth evenly from both partners<newline/>- Promotes a safe environment for students to answer what they honestly think rather than answering what they think the instructor wants.</entry>
+              <entry>- Less incentive to pay attention, think through a question, and commit to an answer.</entry>
+            </row>
+            <row>
+              <entry>More credit for correct responses, some credit for any response (e.g. 3 pts correct / 2pts incorrect)</entry>
+              <entry>- More incentive to pay attention and actively work out an answer if the question is graded.</entry>
+              <entry>- Students may feel pressured to get the right answer, less incentive to share own reasoning and answer honestly.<newline/>- Promotes unbalanced peer discussion, more knowledgeable students can dominate discussion.<newline/>- Promotes memorization of answers from previous terms.<newline/>- Not appropriate for all types of questions.</entry>
+            </row>
+            <row>
+              <entry>Mixed: Many participation-only questions, some graded questions. (e.g. 2 pts per class for participation + 1 pt on graded questions if correct)</entry>
+              <entry>- Promotes process and reasoning of figuring out answer.<newline/>- Allows flexibility to grade only questions that are summative assessments.<newline/>- Having some graded questions keep students’ attention.</entry>
+              <entry>- More set-up or post-analysis to identify which are graded and which are participation only (is fairly easy with some clicker software, not with some others).</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+    </section>
+    <section id="id13878788">
+      <title>3. How many clicker questions should I give in a lecture?</title>
+      <para id="id10443296">Most instructors find that between four and six questions that involve serious discussion and reflection in a 50-minute class period works well. These should be distributed throughout the lecture rather than all clumped at beginning or end. In general, students’ attention often starts waning after about 10 minutes of straight lecturing. If one is using other active learning techniques in a lecture period, the number of clicker questions will likely be lower. For a review before an exam, it can often be more effective to fill the lecture period with many clicker questions rather than using other types of review. </para>
+    </section>
+    <section id="id7723983">
+      <title>4. How do I promote discussion between students?</title>
+      <para id="id10443305">Achieving good discussion between students is often the hardest but most important part to maximizing the benefit of clickers. This is a change in the culture of the class, and so you should not expect it to happen automatically. You should not give up if it takes a little while to develop, and you should actively encourage it, and explain and model scientific discourse for them. </para>
+      <para id="id13843456">On the first day and a couple of subsequent days, encourage the students to learn the names and shake hands with everyone around them (in front and behind included). Also giving the students permission to ask names they’ve forgotten can be surprisingly helpful. We may not be able to learn the names of the whole class, but students appreciate knowing someone knows their name.</para>
+      <para id="id13824780">Students need to feel that the classroom is a safe place to discuss questions, and everyone can potentially be wrong without consequences. Instructors can promote this by explicitly informing students of what they expect and why the interactive/discussion approach helps students learn. This should be done repeatedly during the term as opposed to just at the beginning. We recommend that you also tell students that you’ll be asking them to share their reasoning about the answer so they should discuss it, and then have them share their reasoning at least some of the time in the follow up whole class discussion. </para>
+      <para id="id14421205">Some techniques for directly encouraging discussion are to require groups to submit consensus votes on a question. Calling on students to ask them what reason their group gave for why an answer is correct or incorrect can also help. Students find it less threatening to offer the reasoning for an answer the answer is seen as coming from the group rather than them, individually. If possible, it’s good to also require students to give reasons for answers on homework and exam answers.</para>
+    </section>
+    <section id="id13930445">
+      <title>5. How do I get students to get back on task after a clicker question, and stop talking?</title>
+      <para id="id13819484">A good signal that students are finishing their discussions is when the voting gets up towards 75% of the class. Having an established signal for when discussion needs to end works well, such as a gong tone, whistle, or switching off the lights.</para>
+    </section>
+    <section id="id13882580">
+      <title>6. Don’t “strong” students just give “weak” students the answer if there is discussion?</title>
+      <para id="id13886449">Research suggests that this isn’t a great concern, and that both “strong” and “weak” students benefit from interacting in peer discussion. However, one study<footnote id="foot6">M.C. James, “The effect of grading incentive on student discourse in Peer Instruction,” American Journal of Physics, 74(8), pp. 689-691 (2006).</footnote> has suggested that the way credit is given for answering questions can impact this. In a class with “low stakes” grading (equal credit for any response, with questions counting 12.5% of overall grade), peer discussion was more balanced, with both students in a pair contributing equally to discussion and more likely to vote differently. In contrast, a class with “high stakes” grading (incorrect responses earning 1/3rd the credit earned by a correct response, questions counting 20% of total grade), students earning higher grades dominated peer discussion, and both students in a discussion pair more often voted the same. In a small study we did in a different course, we found the correlation between students’ clicker question answers and their course grade was surprisingly low, indicating that as students were first learning new material, there was little distinction between “weak” and “strong” students. No matter what the achievement level of the student is, encouraging them to articulate their thinking is beneficial. </para>
+    </section>
+    <section id="id9961215">
+      <title>7. How much do clickers cost?</title>
+      <para id="id9961221">Clickers usually cost students $25-65 to purchase new. Often, they can be resold at the end of the term. Many publishers have clickers bundled with a textbook - in those cases the student does not see a separate fee for the clicker, but there is an additional fee ($10-20) to register for a specific course. Be sure to ask your publisher about clicker rebates, this can often be included for very little additional cost. Most institutions have a set brand of clicker so students may use them in several courses.</para>
+    </section>
+    <section id="id13843131">
+      <title>8. Are clickers any better than simpler technologies such as students raising hands or coloured cards to answer question?</title>
+      <para id="id13589634">Andrea Bair and colleagues of the CU-SEI conducted a study comparing use of identical questions in two sections of the same course, but using clickers in one and raising hands in the other. She found substantial differences, all favouring use of clickers.<footnote id="foot7">Poster available at: <link url="http://www.cwsei.ubc.ca/resources/papers.htm">http://www.cwsei.ubc.ca/resources/papers.htm</link></footnote> We have also observed a number of courses where coloured cards were used and then the same instructor switched to using clickers. Although there were very clear benefits to using questions posed to the class and requiring students to respond using their coloured cards, attendance and student engagement was significantly higher when clickers were used. Research has also shown that when points (marks) were attached to active learning practices, student learning improved. In interviews and surveys, students make it very clear that they see clickers as providing a more useful and legitimate way of determining student understanding, and hence more valuable than using cards. The combination of anonymity and accountability is a major virtue of clickers. In the words of one student, <quote display="inline" id="section8quote">I thought that clickers were helpful. It made it easier for the teacher to see how many people actually understood what we were talking about without embarrassing anyone and picking on them.</quote></para>
+    </section>
+    <section id="id13787713">
+      <title>9. Will there be student resistance and if so, how do I deal with it?</title>
+      <para id="id13787720">Some students will probably resist the change in classroom climate from a passive to a more active environment, particularly as it penalizes absences and requires more effort. Most respond well if the instructor explicitly (and repeatedly!) talks with the class about the purpose of using clickers interactively, and emphasizes the positive results seen in other classes and education research. The implicit signals are also very important. When the clicker responses show students do not understand something, revising the lecture plan to examine their difficulties and address them, rather than ignoring this sends a very positive signal. <emphasis>Requiring students to spend money on clickers and then using them only once or twice per class to answer very simple questions sends a very different signal and can generate considerable student unhappiness.</emphasis></para>
+      <para id="id13811486">We have done extensive surveys of students in classes that use clickers. In those classes where the clickers are used in a manner at all close to what we recommend, the students overwhelmingly say they contribute to their learning and recommend they be used. It helps both learning and attitudes if you ensure that the clicker questions, homework, and exam questions indicate in a consistent manner what is important and what the expectations and standards are for the course. </para>
+      <para id="id10583077">There can be a few very vocal students who strongly oppose clickers, but our surveys have shown that when clickers are used well, this view is never shared by more than a small minority. If they are troublesome, their complaints can be reduced by surveying the class to show that they are a small minority, rather than representing the sentiment of all (as they usually assume). Also, although most students say they like using clickers, even those who do not often still recognize their value. In the words of one such student we interviewed, <quote display="inline" id="sec8quote2">Using clickers is like broccoli – I don’t like it, but it’s good for me.</quote></para>
+      <para id="id14997374">Finally, the most effective way to eliminate student resistance ultimately is simply to use clickers to make the classroom an extremely stimulating place where students are highly engaged and learning a great deal. </para>
+    </section>
+    <section id="id13813154">
+      <title>10. Won’t I lose control of the class if I let them talk so freely?</title>
+      <para id="id10583089">This is not as big a concern in practice as it is usually feared to be. There certainly is less rigid control of the class, but students also see the class as more supportive of their learning, and so they are more on your side from the beginning. It is helpful to lay out some ground rules clearly. Along with the reasons for having clicker questions and discussion, make it clear that discussion is supposed to be limited to the subject material (even though it will not always be), and that when you have signalled it is time for discussion to stop, they should do so, and any questions remaining at that time should be directed at you. As the term progresses and students get to know each other better and become more comfortable talking to each other, it usually does get more difficult to cut off discussion. Training students from the beginning to respond to some signal like a gong or lights flashing markedly reduces the difficulties and is normally adequate. </para>
+      <para id="id13675858">If just a few students continue to talk, ask them directly in front of the class in a non-confrontational way, if they have a question. If they are discussing non-class related material, that will quiet them then and in the future. If they are discussing the class material, which is more typical, they will ask a question which you can treat like a regular question, and still send the message clearly that they were disruptive. It is unlikely, but not impossible that you may have an exceptionally unruly class where even these steps are not sufficient to quiet them down. (It is not clear whether such classes are made worse or better with clickers.) A reasonable approach we have seen for that case is, if class is not quiet after the gong/signal, simply stand there looking at them and wait. If they continue to talk, make it clear that students will be responsible for material not covered because of the time you spent waiting for class to quiet down, and then when there are subsequent disruptions, just continue to wait them out and rely on student peer pressure to deal with the noisy students.</para>
+    </section>
+    <section id="id5028641">
+      <title>11. How do I respond if technical problems arise during class?</title>
+      <para id="id14011821">Reassure students that technical problems in no way impact any grading scheme you have implemented. Then pose the question anyway and have discussions as originally planned, and ask for the show-of-hands approach to answering. Results can be tallied (even if roughly) on paper, the blackboard, or an overhead projector.</para>
+    </section>
+    <section id="id9936251">
+      <title>12. Should I post answers to clicker questions after class or not?</title>
+      <para id="id14011826">There are varying opinions about this and no data that indicates one way or another. However the work in reference 2 shows that when people have the answer explained to them after they have thought hard about how to answer the question, they learn a large amount from the explanation. On the basis of that research, our inclination is that it is probably better to post the answers.</para>
+    </section>
+    <section id="id13891285">
+      <title>13. Do clickers work in upper level courses or are they only good for introductory?</title>
+      <para id="id13596392">We have several examples of instructors who began using clickers in large introductory courses and then tried them in smaller upper level and even graduate courses. They are very enthusiastic about the results, and students in upper level clicker courses strongly supported this use on our surveys.</para>
+      <para id="id13828603">In summary, we have found the effective use of clicker questions and discussion can have a transformative impact on both teachers and students, particularly in large classes. Students end up being far more actively engaged in the material and they learn more, and both students and instructors find the course much more rewarding as a result. If you are currently using clickers, we hope this guide will give you ideas on how to use them more effectively, and if you have not yet tried them, we hope this will provide you with the encouragement and assistance to use them effectively.</para>
+    </section>
+  </content>
+</document>

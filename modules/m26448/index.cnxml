@@ -1,0 +1,80 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Recommended approach to using clickers</title>
+  <metadata>
+  <md:content-id>m26448</md:content-id><md:title>Recommended approach to using clickers</md:title>
+  <md:abstract>This module outlines a four-step approach to formulating clicker questions and using clickers effectively in a classroom setting.</md:abstract>
+  <md:uuid>8dac01ab-8546-450d-86db-ff2f276634ca</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id47380339">
+      <emphasis>For clicker questions of the emphasized type, we believe it is best to usually follow the following steps:</emphasis>
+    </para>
+    <para id="id47380348"><title>Step A: Question</title>
+    Instructor poses the question, often with some remark about its purpose.</para>
+
+    <para id="id47380358"><title>Step B: Peer Discussion</title>Students have time to think about the question individually (possibly answering individually with clicker), and then discuss the question in pairs or small groups (peer discussion).<footnote id="foot1">  C.H. Crouch, J. Watkins, A.P. Fagen, and E. Mazur, “Peer Instruction: Engaging Students One-on-One, All At Once,” Research-Based Reform of University Physics, 1 (1) (2007); E. Mazur, Peer Instruction: A User’s Manual (Prentice Hall, NJ, 1997).</footnote></para>
+
+    <para id="id47380407"><title>Step C: Vote</title>
+    Students submit answer using clicker.</para>
+
+    <para id="id47380416"><title>Step D: Whole-class Discussion</title>
+    Instructor and students have follow-up discussion, usually emphasizing the “why” of correct options and “why not” for incorrect options. The instructor should also make sure that any residual issues or student questions from the discussion are explicitly addressed before moving on.</para>
+
+    <para id="id47380435">Each of these steps plays important roles in students’ learning processes.</para>
+
+    <section id="id47380442">
+      <title>Step A: Question</title>
+      <para id="id47380448">By posing a question to the students, several “good” things happen:</para>
+      <list id="id47380455" list-type="enumerated" number-style="lower-roman"><item>Focuses students’ attention on (what you consider to be) the important ideas, </item>
+        <item>Allows students to try applying ideas they just heard or read about, </item>
+        <item>Allows students to build or make connections between ideas or representations, </item>
+        <item>Gives students an opportunity to analyze a (new) situation or context, and </item>
+        <item>Gets students thinking about how to ask questions (that is, it explicitly models the process of analyzing ideas or conclusions by asking questions and figuring out the answers).</item>
+        <item>Prepares them to learn. Schwartz and Bransford<footnote id="foot2">D. Schwartz and J. Bransford, A time for telling, Cognition and Instruction, 16, 475 (1998).</footnote> have shown that when a person tries to answer a question on a topic they do not know, even when they are quite unsuccessful in obtaining a correct answer, they subsequently learn much more from an explanation of the topic than if they hear the same explanation without preceding the explanation with a question they attempt to answer. This means a clicker question can be valuable when it <emphasis>precedes</emphasis> discussion of a topic. </item>
+      </list>
+      <para id="id47380568">When posing a question you might experiment with different ways of providing the answer choices. Often it can be good to have the students think about the answer before the answer options are revealed to them. This can discourage them from using test taking strategies to eliminate possible multiple choice options, rather than reasoning through the question as you intended. We have observed in some cases that not seeing the answer possibilities results in students using their notes and making more of an effort to connect the question to prior material. It can also be a good opportunity to make them practice drawing or diagramming something before presenting them with drawings to choose from. Also, listening to student discussions before possible answers are revealed can sometimes provide additional insights on student reasoning and/or confusion. </para>
+    </section>
+    <section id="id47371237"><title>Step B: Peer Discussion</title><para id="id47380591">Some instructors prefer that students always answer a clicker question individually (without discussion), before discussing in groups and answering the question again. Other instructors only ask students to answer individually before discussion some of the time, and other times will save time by simply encouraging students to <emphasis>think</emphasis> about the question (but not to answer it via clicker) before discussing with others. There is no evidence as to the superiority of either approach. We do recommend having at least some questions that students have to first answer on their own, particularly at the beginning of the term, so they do recognize they are expected to think for themselves and not simply depend on getting the answers from others around them. By watching and listening to the class, it is relatively easy to tell if most students are first analyzing the questions independently and expressing their own ideas, instead of automatically accepting the answer of another student in the group. Based on what you observe, you can readily change how the responses are collected to ensure this happens. We recommend never showing students the results before the end of the voting period, and not showing students the voting results of the class before peer discussion unless the results show a very wide distribution of opinions with no answer being the obvious favourite. Otherwise, many students will simply change their answer to go with the majority. On the other hand, if there is a 50-50 split in votes, showing students that the question has provoked a split response is an excellent motivator for productive discussion.</para>
+      <para id="id47380630">What does peer discussion do for students, instructors, and the classroom environment?</para>
+      
+      <para id="eip-754">Peer discussion:</para><list id="id47380641" list-type="enumerated" number-style="lower-roman"><item>Actively engages students in thinking about and discussing the concept/skill/idea;</item>
+        <item>Improves both their understanding and their ability to communicate technical ideas;</item>
+        <item>Gives students an opportunity to explain and defend their reasoning, and analyze others’ reasoning (to engage in scientific argument); </item>
+        <item>Gives you a chance to hear what students are thinking (listen in on group discussions); </item>
+        <item>Gives students a chance to voice their questions and hear those of others (realize they are not alone in struggling to master the material);</item>
+        <item>Allows students to get help from others to clear up items of confusion; for example, misunderstanding of a technical term that they may have but others around them do not;</item>
+        <item>Builds collegial intellectual atmosphere among students (which promotes learning);</item>
+      </list>
+    </section>
+
+    <section id="id47380748">
+      <title>Step C: Vote</title>
+      
+      <para id="eip-958">Voting on an answer:</para><list id="id47380759" list-type="enumerated" number-style="lower-roman"><item>Gets students to commit to an answer and engages them in knowing the right answer. (They are vested in the outcome, but in a peer-anonymous way); </item>
+        <item>Provides feedback to faculty (Have the students mastered this idea? Should I move on or spend more time on this topic?); </item>
+        <item>Provides feedback to students (Am I understanding this? How does my understanding compare to the rest of the class?)</item>
+      </list>
+    </section>
+
+    <section id="id47380797"><title>Step D: Whole-class Discussion</title><para id="id47380803">After voting, the instructor leads a whole-class discussion and provides wrap-up for the question. This wrap-up:</para>
+      <list id="id47380810" list-type="enumerated" number-style="lower-roman">
+        <item>Allows you and students to hear students’ reasoning for various answers;</item>
+        <item>Gives students the chance to hear and respond to each others ideas;</item>
+        <item>Gives you the opportunity to emphasize and support reasoning as important (“Why might someone pick B? Why is that answer tempting?”, or “Why did your group choose B?” are both somewhat less threatening ways to get students to offer their thinking. However, also telling students they are expected to come up with reasons in their peer discussions, and then calling on students in an obviously random manner to offer up reasons of their group has proven to be effective. This further encourages students to share and critique their reasons during peer group discussions.); </item>
+        <item>Allows you to give feedback to the students on their thinking that is both timely and specific, the two elements that research has shown are essential for pedagogically useful feedback; </item>
+        <item>Promotes understanding of the reasons <emphasis>why</emphasis> an answer choice is correct. If discussion focuses upon the thinking associated with right and wrong options, then students will learn <emphasis>both</emphasis> about the reasoning underlying the correct answer, <emphasis>and</emphasis> what is wrong with incorrect reasoning. (It is important to make sure this happens – correct reasoning for an answer is NOT typically obvious to students, even for many questions that nearly all of them answer correctly.). Finally, this helps students recognize that understanding rather than merely getting a correct answer is what is important both in the course and in the use of clicker questions. Data from our end of term student surveys on clicker use support this. </item>
+        <item>Can generate additional questions revealing difficulties that you had not recognized, or introduce elements or applications of the topic that students find interesting and useful. </item>
+      </list>
+    </section>
+  </content>
+</document>

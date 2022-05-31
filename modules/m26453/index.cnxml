@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Types of clicker questions</title>
+  <metadata>
+  <md:content-id>m26453</md:content-id><md:title>Types of clicker questions</md:title>
+  <md:abstract>This module lists ten types of clicker questions commonly asked.</md:abstract>
+  <md:uuid>3e480e0c-a964-4c48-9e78-ac580f2555c8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id5072289">Clicker questions can serve many purposes – below are some common uses:</para>
+    <list id="id5072296" list-type="enumerated" number-style="arabic" mark-suffix=")">
+      <item>Quiz on the reading assigned in preparation for the class</item>
+      <item>Test recall of lecture point </item>
+      <item>Do a calculation or choose next step in a complex calculation</item>
+      <item>Survey students to determine background or opinions </item>
+      <item>
+        <emphasis>Elicit/reveal pre-existing thinking </emphasis>
+      </item>
+      <item>
+        <emphasis>Test conceptual understanding</emphasis>
+      </item>
+      <item>
+        <emphasis>Apply ideas in new context/explore implications</emphasis>
+      </item>
+      <item>
+        <emphasis>Predict results of lecture demo, experiment, or simulation, video, etc.</emphasis>
+      </item>
+      <item>
+        <emphasis>Draw on knowledge from everyday life</emphasis>
+      </item>
+      <item>
+        <emphasis>Relate different representations (graphical, mathematical, …)</emphasis>
+      </item>
+    </list>
+
+    <para id="id5072438">While each mode can be useful in the right circumstances, those <emphasis>emphasized</emphasis> above are the uses that we have seen the largest direct impact on learning and the uses that students report they find of most value. Not surprisingly, these reflect the deepest mastery of a subject and hence have been shown to be the most challenging for students to learn. We recommend that the majority of questions fall into these emphasized categories.</para>
+  </content>
+</document>

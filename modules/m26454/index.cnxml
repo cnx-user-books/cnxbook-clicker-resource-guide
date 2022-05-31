@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Logistics</title>
+  <metadata>
+  <md:content-id>m26454</md:content-id><md:title>Logistics</md:title>
+  <md:abstract>This method summarizes three main ways to set up peer discussion groups to answer clicker questions.</md:abstract>
+  <md:uuid>c8a0ae5e-3831-4d41-989e-867d592a5f70</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id9919226"><emphasis>Grading</emphasis> and <emphasis>timing</emphasis> issues (and recommended approaches) are described in the “Frequently asked questions” at the end of this paper.</para>
+    <para id="id9919234"><title>Student peer groups:</title>There are three main ways of setting up student peer (discussion) groups. Instructors have discovered pros and cons for each method with respect to set-up, ease and quality of student discussions, and student response, summarized below. In typical theatre-style lecture room, maximum group size should be no more than four students in adjacent seats. Discussion involving 3 or 4 people is often more substantial than with only two. With formal groups it can be effective to announce on some questions that groups are required to reach consensus, thus voting the same. This strategy substantially increases the amount of discussion and being able to do this is one of the primary virtues of formal groups. This works even if one never checks if group actually did reach consensus. </para>
+
+    <table id="id9919255" summary="Pros and cons of instructor-defined groups."><title>Formal group (instructor-defined)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1" colwidth="250pt"/>
+        <colspec colnum="2" colname="c2" colwidth="250pt"/>
+        <thead>
+          <row>
+            <entry>Pros</entry>
+            <entry>Cons</entry>
+          </row>
+        </thead>
+        <tbody>
+
+          <row>
+            <entry>- Good student conversation<newline/>- Focus of discussion more on topic</entry>
+            <entry>- Takes time to set up<newline/>- Minor student complaints (major if not done early in term and reasons doing not explained first day!)<newline/>- Early discussions may be “sluggish” as they get to know each other</entry>
+          </row>
+
+        </tbody>
+      
+
+
+
+</tgroup>
+</table>
+
+
+
+    <table id="id9919317" summary="Pros and cons of a student-assembled formal group."><title>Formal group (self-assembled)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1" colwidth="250pt"/>
+        <colspec colnum="2" colname="c2" colwidth="250pt"/>
+        <thead>
+          <row>
+            <entry>Pros</entry>
+            <entry>Cons</entry>
+          </row>
+        </thead>
+        <tbody>
+
+          <row>
+            <entry>- Few student complaints<newline/>- Little hassle - computerized signup<newline/>- Better discussion than no formal groups</entry>
+            <entry>- Can be more off-topic discussions</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+
+
+    <table id="id9919371" summary="Pros and cons of informal groups of neighbours."><title>Informal (neighbours only)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1" colwidth="250pt"/>
+        <colspec colnum="2" colname="c2" colwidth="250pt"/>
+        <thead>
+          <row>
+            <entry>Pros</entry>
+            <entry>Cons</entry>
+          </row>
+        </thead>
+        <tbody>
+
+          <row>
+            <entry>- Few student complaints<newline/>- No hassles</entry>
+            <entry>- Many students not very involved<newline/>- More off-topic discussions (about weekend)</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+
+  </content>
+</document>

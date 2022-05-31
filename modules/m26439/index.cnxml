@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+
+<title>References</title>
+<metadata>
+  <md:content-id>m26439</md:content-id><md:title>References</md:title>
+  <md:abstract>This module contains general and cited references in the Clicker Resource Guide.</md:abstract>
+  <md:uuid>aa1bb2f8-4f9b-4c5c-ae99-f6d180fcc633</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <para id="delete_me"><title>General References</title>E. Ribbens, Case Study: Why I like clicker personal response systems, J. of Coll. Sci. Teaching, pg 60, Nov. 2007.</para>
+
+<para id="eip-951">Duncan, D., 2005. Clickers in the classroom: how to enhance science teaching using classroom response systems, San Francisco: Addison Wesley and Benjamin Cummings.
+</para>
+
+<para id="eip-16">more references and other resources at: <link url="http://www.cwsei.ubc.ca/resources/clickers.htm">http://www.cwsei.ubc.ca/resources/clickers.htm</link></para><para id="eip-878">For an electronic copy of this Guide, plus information and resources – including videos of clickers in action – please visit: <link url="http://STEMclickers.colorado.edu/">STEMclickers.colorado.edu</link>
+ </para>
+
+
+</content>
+
+
+<bib:file>
+
+
+ <bib:entry id="beatty">
+  <bib:article>
+    <bib:author>Beatty, I.D and Gerace, W.J. and Leonard, W.J. and Dufresne, R.J.</bib:author>
+    <bib:title>Designing effective questions for
+classroom response system teaching</bib:title>
+    <bib:journal>American Journal of Physics</bib:journal>
+    <bib:year>2006</bib:year>
+    <bib:volume>74</bib:volume>
+    <bib:number>1</bib:number>
+    <bib:pages>31-39</bib:pages>
+  </bib:article>
+ </bib:entry>
+
+
+ <bib:entry id="bransford">
+  <bib:book>
+    <bib:editor>Bransford, J. and Brown, A. and Cocking, R.</bib:editor>
+   <bib:title>How People Learn; Brain, Mind, Experience, and School</bib:title>
+   <bib:publisher>NAS Press</bib:publisher>
+   <bib:year>2000</bib:year>
+   <bib:note>Expanded edition.</bib:note>
+  </bib:book>
+ </bib:entry>
+
+
+ <bib:entry id="crouch">
+  <bib:article>
+    <bib:author>Crouch, C.H. and Watkins, J. and Fagen, A.P. and Mazur, E.</bib:author>
+    <bib:title>Peer Instruction: Engaging Students
+One-on-One, All At Once</bib:title>
+    <bib:journal>Research-Based Reform of University Physics</bib:journal>
+    <bib:year>2007</bib:year>
+    <bib:volume>1</bib:volume>
+    <bib:number>1</bib:number>
+  </bib:article>
+ </bib:entry>
+
+
+ <bib:entry id="freeman">
+  <bib:article>
+    <bib:author>Freeman, S. and others</bib:author>
+    <bib:title>Prescribed Active Learning Increases Performance in Introductory Biology</bib:title>
+    <bib:journal>CBE Life Sci Educ.</bib:journal>
+    <bib:year>2007</bib:year>
+    <bib:volume>6</bib:volume>
+    <bib:number>2</bib:number>
+    <bib:pages>132-9</bib:pages>
+  </bib:article>
+ </bib:entry>
+
+
+ <bib:entry id="hake">
+  <bib:article>
+    <bib:author>Hake, R.R.</bib:author>
+    <bib:title>Interactive-engagement versus traditional methods: A six-thousand-student survey of mechanics test data for introductory physics courses</bib:title>
+    <bib:journal>American Journal of Physics</bib:journal>
+    <bib:year>1998</bib:year>
+    <bib:volume>66</bib:volume>
+    <bib:number>1</bib:number>
+    <bib:pages>64</bib:pages>
+  </bib:article>
+ </bib:entry>
+
+
+ <bib:entry id="james">
+  <bib:article>
+    <bib:author>James, M.C.</bib:author>
+    <bib:title>The effect of grading incentive on student discourse in Peer Instruction</bib:title>
+    <bib:journal>American Journal of Physics</bib:journal>
+    <bib:year>2006</bib:year>
+    <bib:volume>74</bib:volume>
+    <bib:number>8</bib:number>
+    <bib:pages>689-91</bib:pages>
+  </bib:article>
+ </bib:entry>
+
+
+ <bib:entry id="knight">
+  <bib:article>
+    <bib:author>Knight, J.K. and Wood, W.B.</bib:author>
+    <bib:title>Teaching more by lecturing less</bib:title>
+    <bib:journal>Cell Biol. Educ.</bib:journal>
+    <bib:year>2005</bib:year>
+    <bib:volume>4</bib:volume>
+    <bib:pages>298-310</bib:pages>
+  </bib:article>
+ </bib:entry>
+
+ <bib:entry id="mazur">
+  <bib:book>
+    <bib:author>Mazur, E.</bib:author>
+   <bib:title>Peer Instruction: A User’s Manual</bib:title>
+   <bib:publisher>Prentice Hall</bib:publisher>
+   <bib:year>1997</bib:year>
+  </bib:book>
+ </bib:entry>
+
+ <bib:entry id="redish">
+  <bib:book>
+    <bib:author>Redish, E.F.</bib:author>
+   <bib:title>Teaching Physicswith Physics Suite</bib:title>
+   <bib:publisher>John Wiley &amp; Sons</bib:publisher>
+   <bib:year>2003</bib:year>
+  </bib:book>
+ </bib:entry>
+
+
+ <bib:entry id="schwartz">
+  <bib:article>
+    <bib:author>Schwartz, D. and Bransford, J.</bib:author>
+    <bib:title>A time for telling</bib:title>
+    <bib:journal>Cognition and Instruction</bib:journal>
+    <bib:year>1998</bib:year>
+    <bib:volume>16</bib:volume>
+    <bib:pages>475</bib:pages>
+  </bib:article>
+ </bib:entry>
+
+
+ <bib:entry id="poster">
+  <bib:misc>
+    <bib:note>Poster available from http://www.cwsei.ubc.ca/resources/papers.htm</bib:note>
+  </bib:misc>
+ </bib:entry>
+
+</bib:file>
+
+</document>

@@ -1,0 +1,109 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Writing effective questions</title>
+  <metadata>
+  <md:content-id>m26449</md:content-id><md:title>Writing effective questions</md:title>
+  <md:abstract>This module gives ideas on where to find and how to formulate effective and engaging clicker questions.</md:abstract>
+  <md:uuid>feb37d58-c1c7-4662-b359-3b7c7aabf3fa</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.cwsei.ubc.ca/" strength="3">Carl Wieman Science Education Initiative -  University of British Columbia </link>
+      <link url="http://www.colorado.edu/sei/index.html" strength="3">The Science Education Initiative - University of Colorado </link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id7707644">Once an instructor has embraced the idea of interactive teaching, having good questions is the single most important element for having a successful class using clickers. Ideally you would like a question that students will interpret properly and will see as interesting and challenging, will stimulate students to want to hear and analyze the ideas of their classmates, will shape student thinking in desired ways, will reveal unanticipated student difficulties or interpretations, and will accurately reveal whether or not students are mastering the material. However, a question can be more than adequate without achieving all these goals, and it is hard to predict which questions will be great until you try them, so it is best not to spend too long agonizing over creating the perfect question.</para>
+    <para id="id7707662">By far the most common failing is to make questions that are too easy. In this situation, students often see the questions as simply a quiz to keep them awake, and they are annoyed that they had to spend money on clickers only for this purpose. There is also some indication that, in the absence of any other form of feedback, easy questions may mislead students as to the difficulty of the questions they would expect to see on the exam. In extensive surveys of students in many different classes, students overwhelmingly see challenging questions as the most useful for their learning. Our observations have also supported the conclusions that such questions result in greater learning.</para>
+    <para id="id7707678">Usually, the best starting point for obtaining good clicker questions is to look and see what might already be available, either from an instructor who has used clickers in the class previously, or in one of a number of online repositories for such questions. The instructor’s guides to many textbooks now offer lists of questions. These can be an easily accessible starting point for finding questions, but these textbook questions unfortunately are often quite simple and factual.</para>
+    <para id="id7707698">The best way for finding online repositories of questions is to type “ConcepTests” (the label chosen by Eric Mazur who developed this method of instruction) into Google. This brings up listings of question collections in numerous fields. A few specific examples are Mazur’s site <link url="http://galileo.harvard.edu/">http://galileo.harvard.edu/</link>; a collection of links to question banks in physics, chemistry, and earth sciences is at <link url="http://www.mines.edu/Academic/physics/classroomcommunicators/assets/">http://www.mines.edu/Academic/physics/classroomcommunicators/assets/banks.html</link>. A question bank for biology is being created at <link url="http://cellbase.ascb.org">http://cellbase.ascb.org</link>.</para>
+    <para id="id7707738">From in-class observations of instructor lectures, we have noticed several places to find good clicker questions. You can try to pick up on these yourself, or you might find it helpful to invite a colleague or graduate student to observe a few lectures.</para>
+
+
+      <para id="fs-id8256078"><title>Questions professors pose to the students spontaneously during class.</title>
+These questions often cover the points they want to get across and/or have an interesting example that can help students associate what they are learning in class with the real world (for example: a disease, exercise, aging). To record these questions, professors can have TAs sit in on their lectures and write them down along with any responses offered by students.</para>
+
+      <para id="fs-id8027890"><title>Overhearing student discussions about questions posed in class.</title>
+Listening to students’ discussion and what they are thinking as they generate their answers often suggests good questions. Also, these discussions often suggest points that students are confused about and hence would be good incorrect answers to list and subsequently discuss. Professors can wander during this time, join a group discussion, and have a TA record and move around the classroom.</para>
+
+      <para id="fs-id6525733"><title>Questions students pose in class.</title>
+These can also be turned into excellent clicker questions. Although usually an instructor will make this a question in a subsequent class or term, don’t be afraid to do this in real time, by taking a question that a student has asked and throw it back to the entire class to answer. You can either create your own multiple choice answers on the spot, or get suggestions from students. This is a particularly good thing to do when you are pretty sure that most students can figure out the answer themselves.</para>
+
+      <para id="fs-id8231093"><title>Dealing with connections.</title>We frequently observe that students fail to make connections between new and previously learned concepts as well as connecting material with general themes in the course as a whole. Clicker questions can make these connections explicit.</para>
+
+      <para id="fs-id5392391"><title>Analogies.</title>
+Professors have many great analogies they use in lecture. These can provide a good basis for clicker questions.</para>
+
+    <para id="id7707843">While testing the question with students is the only way to find out if it is effective (in terms of promoting student learning, uncovering misconceptions, and generating student engagement and discussion) you can stack the odds in your favour by considering the following points.</para>
+
+    <list id="id7707856" list-type="labeled-item"><item><label>1</label>Define your <emphasis>learning goal</emphasis> or <emphasis>objectives</emphasis>.</item>
+    <item>What you want students to be able to do (in terms of using content and skills, etc.)</item>
+      <item><label>2</label>Identify the <emphasis>goal(s)</emphasis> of the clicker question.</item>
+      <item><label>3</label>Choose type of question to use (see below for some options under “tactics”).</item>
+    </list>
+
+    <example id="oo-id7538302"><title>Example from Geology 1010</title><list id="id7707913" list-type="enumerated">
+      <item>Learning goal (<emphasis>What do you want students to be able to do?</emphasis>):</item>
+    </list>
+    <para id="id7707927">Explain and demonstrate how geologists determine rates of tectonic plate motion from data on seafloor age.</para>
+    <para id="id7707933"><emphasis>Skills</emphasis>: calculating a rate, reasoning like a geologist, developing competence using geological data, interpreting a representation commonly encountered (but seldom explicitly explained) in textbooks</para>
+    <para id="id7707944"><emphasis>Concepts</emphasis>: tectonic plates move: the rate of past plate motion at spreading centers (divergent plate boundaries) is known from the age of oceanic crust making up the seafloor.</para>
+    <list id="id7707955" list-type="enumerated" start-value="2">
+      <item>Goal(s) of the clicker question</item>
+    </list>
+    <para id="id7707964">Promote articulation/discussion, stimulate cognitive processes</para>
+    <list id="id7707969" list-type="enumerated" start-value="3">
+      <item>Tactic or tactics to use</item>
+    </list>
+    <para id="id7707977">Qualitative question, analysis and reasoning, interpret representation, rank variants.</para>
+    <list id="id7707983" list-type="enumerated" start-value="4">
+      <item>Clicker question</item>
+    </list>
+    <para id="id7707991">The resulting clicker question had students to look at a map of the earth showing the ages of the seafloors, and students were asked to rank the relative speeds of the plates at various locations.</para>
+    </example>
+
+
+    <para id="id7707999">Beatty et al.<footnote id="foot3">I.D.Beatty, W.J. Gerace, W.J. Leonard, and R.J. Dufresne. “Designing effective questions for classroom response system teaching,” American Journal of Physics, 74(1): 31-39 (2006).</footnote> have discussed tactics to use in designing relatively advanced clicker questions. These are primarily of use to instructors experienced at using clicker questions.</para>
+    
+    <table id="id7708404" summary="The left column describes question design goals, while the right column gives several tactics for each goal."><title>Question design goals and tactics (Beatty et al., 2006)</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Question design goals</entry>
+            <entry>Tactics</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry>Direct attention and raise awareness</entry>
+            <entry>- Remove nonessentials<newline/>- Compare and contrast<newline/>- Extend the context<newline/>- Reuse familiar question situations<newline/>- Oops-go-back </entry>
+          </row>
+          <row>
+            <entry>Promote articulation/discussion</entry>
+            <entry>- Qualitative questions<newline/>- Analysis and reasoning questions<newline/>- Multiple defensible answers<newline/>- Require unstated assumptions<newline/>- Trap unjustified assumptions<newline/>- Deliberate ambiguity<newline/>- Trolling for misconceptions </entry>
+          </row>
+          <row>
+            <entry>Stimulate cognitive processes</entry>
+            <entry>- Interpret representations<newline/>- Compare and contrast<newline/>- Extend the context<newline/>- Identify a set- Rank variants<newline/>- Reveal a better way<newline/>- Strategize only<newline/>- Include extraneous information<newline/>- Omit necessary information </entry>
+          </row>
+          <row>
+            <entry>Formative use of response data</entry>
+            <entry>- Answer choices reveal likely difficulties<newline/>- Use “none of the above” </entry>
+          </row>
+          <row>
+            <entry>We add: Connect to the real world</entry>
+            <entry>- Apply to real world setting<newline/>- Pose in terms of real world problem </entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table>
+  </content>
+</document>
