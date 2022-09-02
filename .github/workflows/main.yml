@@ -27,8 +27,6 @@ jobs:
           cd enki
           git checkout sk-epub-fixes 
           TRACE_ON=1 LOCAL_ATTIC_DIR=_attic TERM=xterm /github/enki/dockerfiles/enki-in-container --command all-git-epub --repo-dir ${{ env.WORKDIR }} --style dummy
-          
-          mv /tmp/test.epub /tmp/clicker-resource-guide.epub
 
       - name: Bump version and push tag
         id: tag_version
@@ -42,7 +40,7 @@ jobs:
       - name: Create a GitHub release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: /tmp/clicker-resource-guide.epub
+          artifacts: /tmp/IO_ARTIFACTS/clicker-resource-guide.epub
           tag: ${{ steps.tag_version.outputs.new_tag }}
           name: ${{ steps.tag_version.outputs.new_tag }}
           omitBody: True
